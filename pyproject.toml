@@ -1,7 +1,7 @@
 [project]
-name = "patsorestanfordphilosophy"
+name = "stanfordphilosophyviz"
 version = "0.1.0"
-description = "Add your description here"
+description = "Interactive Embedding Visualization of [Stanford Plato](https://plato.stanford.edu/contents.html)."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
